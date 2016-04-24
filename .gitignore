@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+node_modules/
+recorder-darwin-x64/
+db/**
+dist/
